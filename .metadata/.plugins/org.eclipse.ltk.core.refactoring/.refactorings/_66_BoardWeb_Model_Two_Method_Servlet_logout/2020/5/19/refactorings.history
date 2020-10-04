@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;_66_BoardWeb_Model_Two_Method_Servlet_logout&apos;&#x0D;&#x0A;- Original project: &apos;_66_BoardWeb_Model_Two_Method_Servlet_logout&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     deleteBoard_proc.jsp&#x0D;&#x0A;     insertBoard_proc.jsp&#x0D;&#x0A;     login_proc.jsp&#x0D;&#x0A;     logout_proc.jsp&#x0D;&#x0A;     updateBoard_proc.jsp" description="Delete elements" element1="src/main/webapp/deleteBoard_proc.jsp" element2="src/main/webapp/logout_proc.jsp" element3="src/main/webapp/updateBoard_proc.jsp" element4="src/main/webapp/insertBoard_proc.jsp" element5="src/main/webapp/login_proc.jsp" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="5" stamp="1588563274162" subPackages="false" version="1.0"/>
+</session>

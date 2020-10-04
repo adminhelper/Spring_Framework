@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;_77_BoardWeb_Spring_MVC_LoginController&apos;&#x0D;&#x0A;- Original project: &apos;_77_BoardWeb_Spring_MVC_LoginController&apos;&#x0D;&#x0A;- Original element: &apos;_77_BoardWeb_Spring_MVC_LoginController/src/main/java/com.springstudy.view.controller&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.springstudy.view.controller" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1588575783429" subPackages="false" version="1.0"/>
+</session>
